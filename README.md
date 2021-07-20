@@ -43,7 +43,21 @@ The application uses firebase to store stories and also it shows different twist
 <img src="https://github.com/Marvel999/Android_Portfolio/blob/main/image/worth%20it/worth%20it.gif?raw=true" width="210" title="Storyfy">
 </p>
 
-# Covid Tracker
+# Tap-In News Application
+
+This is my first application when I was learning android application development, most of the things I implement in the application is custom means I almost try not to use 3rd party libraries because I wanted to learn more deeply about low-level APIs of android.
+
+
+The application will show you the all the songs which are available in your phone using the content provider and at the same time, it will create the service for the application so that you can easily play the music in the background and I use foreground service with a notification which means you can also listen to your music even if you remove the application from the background. The application also offers you the albums where you have songs according to their albums so you can listen to music based on the albums, also you can search for music in application. It also offers you a good user interface with animation so you will stick to use the application.
+
+### Technolgies : Android SDK , Java, Xml
+
+<p align="center">
+<img src="images/Artboard – 1@2x.png" width="1230"  title="Music Application">
+</p>
+
+
+# Marvinno HomeAutomation Application
 
 I build this application when I was doing a challenge at topcoder where i have APIs for the covid-19 data so this application used to track cases all over the world.
 The application uses retrofit, data binding, and Rx java for calling API and fetch all the data in order to show on the list. I used graphs also for indicating the number of cases, deaths, and confirmed cases all over the world. You can also see data particular to a country.
@@ -64,19 +78,6 @@ This Android App Helps you to find the nearest vaccination center, check the slo
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Marvel999/Android_Portfolio/main/image/covid/1623387432335.gif" width="590" title="Word Guess">
-</p>
-
-# Tap-In News Application
-
-This is my first application when I was learning android application development, most of the things I implement in the application is custom means I almost try not to use 3rd party libraries because I wanted to learn more deeply about low-level APIs of android.
-
-
-The application will show you the all the songs which are available in your phone using the content provider and at the same time, it will create the service for the application so that you can easily play the music in the background and I use foreground service with a notification which means you can also listen to your music even if you remove the application from the background. The application also offers you the albums where you have songs according to their albums so you can listen to music based on the albums, also you can search for music in application. It also offers you a good user interface with animation so you will stick to use the application.
-
-### Technolgies : Android SDK , Java, Xml
-
-<p align="center">
-<img src="images/Artboard – 1@2x.png" width="1230"  title="Music Application">
 </p>
 
 
