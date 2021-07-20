@@ -87,7 +87,11 @@ This Android App Helps you to find the nearest vaccination center, check the slo
 ### Technolgies : MVVM, Android Jepack, Room, Android SDK, Java, Xml
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Marvel999/Android_Portfolio/main/image/covid/1623387432335.gif" width="590" title="Word Guess">
+<img src="https://github.com/Marvel999/Android_Portfolio/blob/main/image/covid/Artboard%20%E2%80%93%2012.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Marvel999/Android_Portfolio/main/image/covid/1623387432335.gif" width="510" title="Storyfy">
 </p>
 
 
