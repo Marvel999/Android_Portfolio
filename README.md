@@ -44,6 +44,7 @@ The application uses firebase to store stories and also it shows different twist
 </p>
 
 # Tap-In News Application
+<a href='https://play.google.com/store/apps/details?id=com.tapin.tapin'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
 This is my first application when I was learning android application development, most of the things I implement in the application is custom means I almost try not to use 3rd party libraries because I wanted to learn more deeply about low-level APIs of android.
 
@@ -53,11 +54,17 @@ The application will show you the all the songs which are available in your phon
 ### Technolgies : Android SDK , Java, Xml
 
 <p align="center">
-<img src="images/Artboard – 1@2x.png" width="1230"  title="Music Application">
+<img src="https://github.com/Marvel999/Android_Portfolio/blob/main/image/tap-in/Artboard%20%E2%80%93%2010.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+<img src="https://github.com/Marvel999/Android_Portfolio/blob/main/image/tap-in/t-demo.gif?raw=true" width="510" title="Storyfy">
 </p>
 
 
 # Marvinno HomeAutomation Application
+
+<a href='https://play.google.com/store/apps/details?id=com.Marvinno.MarvinnoHomeAutomation'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
 I build this application when I was doing a challenge at topcoder where i have APIs for the covid-19 data so this application used to track cases all over the world.
 The application uses retrofit, data binding, and Rx java for calling API and fetch all the data in order to show on the list. I used graphs also for indicating the number of cases, deaths, and confirmed cases all over the world. You can also see data particular to a country.
@@ -65,8 +72,11 @@ The application uses retrofit, data binding, and Rx java for calling API and fet
 ### Technolgies : Android SDK , Kotlin, Xml, RxJava
 
 <p align="center">
-<img src="images/Covid app/Artboard – 1@2x.png" width="480"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/Covid app/covid video.gif" width="210" title="Storyfy">
+<img src="https://github.com/Marvel999/Android_Portfolio/blob/main/image/morvinno/Artboard%20%E2%80%93%2011.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+<img src="https://github.com/Marvel999/Android_Portfolio/blob/main/image/morvinno/m-demo.gif?raw=true" width="210" title="Storyfy">
 </p>
 
 # VCentre Application
