@@ -66,7 +66,7 @@ This Android App Helps you to find the nearest vaccination center, check the slo
 <img src="https://raw.githubusercontent.com/Marvel999/Android_Portfolio/main/image/covid/1623387432335.gif" width="590" title="Word Guess">
 </p>
 
-# BeatPlayer Music Application
+# Tap-In News Application
 
 This is my first application when I was learning android application development, most of the things I implement in the application is custom means I almost try not to use 3rd party libraries because I wanted to learn more deeply about low-level APIs of android.
 
