@@ -36,11 +36,11 @@ The application uses firebase to store stories and also it shows different twist
 ### Technolgies : Android SDK ,MVVM, Java, Xml, Firebase, JUnit
 
 <p align="center">
-<img src="images/storyfy app/Artboard – 1@2x.png" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Marvel999/Android_Portfolio/blob/main/image/worth%20it/Artboard%20%E2%80%93%209.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
-<img src="images/storyfy app/storyfy video.gif" width="210" title="Storyfy">
+<img src="https://github.com/Marvel999/Android_Portfolio/blob/main/image/worth%20it/worth%20it.gif?raw=true" width="210" title="Storyfy">
 </p>
 
 # Covid Tracker
