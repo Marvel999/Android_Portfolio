@@ -5,16 +5,7 @@
 <a href="https://drive.google.com/file/d/1WfL5xxhqhz-cGgC0hDCNSsR-kDJqXHGF/view?usp=sharing" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:manishjobs1999@gmail.com"><img src="https://img.shields.io/badge/Email-Manish-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/manish-singh-150368168/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Manish-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/instagram-manish.marvel999-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-# VCentre Application
-This Android App Helps you to find the nearest vaccination center, check the slot ability and Pin-Point location of the vaccination center. If your devloper then you can learn MVVM,ROOM,FireBase-auth and Firebase-realtime-database from this repo.
 
-![github repo](https://github.com/Marvel999/VCenter-Map)
-
-### Technolgies : MVVM, Android Jepack, Room, Android SDK, Java, Xml
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Marvel999/Android_Portfolio/main/image/covid/1623387432335.gif" width="590" title="Word Guess">
-</p>
 
 # Stry Application (Educational Application)
 <a href='https://play.google.com/store/apps/details?id=alejandro.ibague.studyapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
@@ -64,6 +55,16 @@ The application uses retrofit, data binding, and Rx java for calling API and fet
   <img src="images/Covid app/covid video.gif" width="210" title="Storyfy">
 </p>
 
+# VCentre Application
+This Android App Helps you to find the nearest vaccination center, check the slot ability and Pin-Point location of the vaccination center. If your devloper then you can learn MVVM,ROOM,FireBase-auth and Firebase-realtime-database from this repo.
+
+![github repo](https://github.com/Marvel999/VCenter-Map)
+
+### Technolgies : MVVM, Android Jepack, Room, Android SDK, Java, Xml
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Marvel999/Android_Portfolio/main/image/covid/1623387432335.gif" width="590" title="Word Guess">
+</p>
 
 # BeatPlayer Music Application
 
