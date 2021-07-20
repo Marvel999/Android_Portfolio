@@ -8,11 +8,11 @@
 # VCentre Application
 This Android App Helps you to find the nearest vaccination center, check the slot ability and Pin-Point location of the vaccination center. If your devloper then you can learn MVVM,ROOM,FireBase-auth and Firebase-realtime-database from this repo.
 
-<a href='https://play.google.com/store/apps/details?id=com.jackandphantom.mytodo'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+![github repo](https://github.com/Marvel999/VCenter-Map)
 
 ### Technolgies : MVVM, Android Jepack, Room, Android SDK, Java, Xml
 
-![Note app feature 1 0](./images/notes_app.gif)
+![Note app feature 1 0](https://raw.githubusercontent.com/Marvel999/Android_Portfolio/main/image/covid/1623387432335.gif)
 
 
 # Stry Application (Educational Application)
@@ -26,11 +26,11 @@ Application is for the students which contain questions in a quiz wrapped in a p
 ### Technolgies : Android SDK , Kotlin, Xml, Firebase, MVVM 
 
 <p align="center">
-<img src="images/stry app/Artboard – 1@2x.png" width="700"  title="Stry Application">
+<img src="https://raw.githubusercontent.com/Marvel999/Android_Portfolio/main/image/stry%20App/Artboard%20%E2%80%93%201%402x.png" width="700"  title="Stry Application">
 </p>
 
 <p align="center">
-<img src="images/stry app/stry video.gif" width="190" title="Word Guess">
+<img src="https://github.com/sparrow007/Android-Portfolio/blob/master/images/stry%20app/stry%20video.gif?raw=true" width="190" title="Word Guess">
 </p>
 
 # Storyfy Application 
