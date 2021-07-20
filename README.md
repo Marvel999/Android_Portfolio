@@ -33,14 +33,15 @@ Application is for the students which contain questions in a quiz wrapped in a p
 <img src="https://github.com/sparrow007/Android-Portfolio/blob/master/images/stry%20app/stry%20video.gif?raw=true" width="190" title="Word Guess">
 </p>
 
-# Storyfy Application 
-<a href='https://play.google.com/store/apps/details?id=com.harshilzalavadiya.com.storyfy'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+# worth it! Application 
+<a href='https://play.google.com/store/apps/details?id=me.worthit.app'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-When I was working in a company as an intern, I build this application which is basically a storytelling application where you story coming from the server and you can choose your choice in order turn story in your direction.
+
+This application was devloped when I was on the contract-based android devloper hired by Mr. Roman Saini(unacademy founder) under guidence of arnav gupta(Coding block founder). This application help people to deside what is worth it! to buy or what not worth it! to buy.
 
 The application uses firebase to store stories and also it shows different twists according to user choice. It has a quite simple user interface with some animation, the application will upload new stories as they completing writing the stories by writer and the user does not need to update the application in order to read new content. I have used a custom user interface because requirements are to make the app more like a book so we have made the custom drawable and view to perform this action.
 
-### Technolgies : Android SDK , Java, Xml, Firebase
+### Technolgies : Android SDK ,MVVM, Java, Xml, Firebase, JUnit
 
 <p align="center">
 <img src="images/storyfy app/Artboard – 1@2x.png" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
