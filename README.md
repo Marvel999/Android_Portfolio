@@ -5,7 +5,14 @@
 <a href="https://drive.google.com/file/d/1WfL5xxhqhz-cGgC0hDCNSsR-kDJqXHGF/view?usp=sharing" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:manishjobs1999@gmail.com"><img src="https://img.shields.io/badge/Email-Manish-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/manish-singh-150368168/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Manish-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/instagram-manish.marvel999-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-
+# Please look into the list of apps I have worked on.
+1. ![Marvinno App(IOT)](https://play.google.com/store/apps/details?id=com.Marvinno.MarvinnoHomeAutomation)
+3. ![Tap In](https://play.google.com/store/apps/details?id=com.tapin.tapin)
+4. ![Worth It](https://play.google.com/store/apps/details?id=me.worthit.app)
+5. ![StryApp](https://play.google.com/store/apps/details?id=alejandro.ibague.studyapp)
+6. ![Unacademy Learner App](https://play.google.com/store/apps/details?id=com.unacademyapp)
+7. ![Unacadmy parent app](https://play.google.com/store/apps/details?id=com.unacademy.unacademyparentapp)
+8. ![Graphy app](https://play.google.com/store/apps/details?id=com.graphy.app)
 
 # Stry Application (Educational Application)
 <a href='https://play.google.com/store/apps/details?id=alejandro.ibague.studyapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
